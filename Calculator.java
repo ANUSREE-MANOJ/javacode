@@ -1,6 +1,6 @@
 /**
  * The Calculator class provides methods to perform basic arithmetic operations:
- * addition, subtraction, multiplication, and division.
+ * addition,  and division.
  */
 public class Calculator {
 
